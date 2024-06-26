@@ -1,4 +1,4 @@
-# YOLOv8 ONNX Integration with Visual Studio C++ - README
+# YOLOv8 ONNX Integration with Visual Studio C++ WITHOUT USING ONNXRUNTIME
 
 ## Overview
 
